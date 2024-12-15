@@ -5,7 +5,7 @@
   
   <default revision="master-kernel-build-2021" remote="aosp" sync-j="4" />
   <project path="build" name="kernel/build" />
-  <project path="common" name="LuffyTaro008/android_kernel_xiaomi_vayu" revision="13" remote="github" />
+  <project path="common" name="https://github.com/ArrowOS-Devices/android_kernel_xiaomi_vayu" revision="arrow-13.1" remote="github" />
   <project path="hikey-linaro" name="kernel/hikey-linaro" clone-depth="1" revision="android-hikey-linaro-4.14" >
     <linkfile src="build.config" dest="build.config"/>
   </project>
