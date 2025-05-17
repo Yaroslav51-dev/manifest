@@ -10,7 +10,7 @@
    <project 
     path="clang" 
     name="platform/prebuilts/clang/host/linux-x86" 
-    revision="android-16-beta-4.1_r0.11"
+    revision="d7d9a1d473186c3a3b0ad3517fb54e59a0327024"
     clone-depth="1"
     remote="aosp">
   </project>
