@@ -6,8 +6,6 @@
   <default revision="master-kernel-build-2021" remote="aosp" sync-j="4" />
   <superproject name="kernel/superproject" remote="aosp" revision="common-android12-5.10" />
   <project path="build" name="pa-gr/android_kernel_build" remote="github" revision="android12-5.10-marble">
-    <linkfile dest="build.sh" src="build-ak3.sh"/>
-  </project>
   <project path="common" name="Yaroslav51-dev/q" remote="github" revision="main" />
    <project 
     path="clang" 
